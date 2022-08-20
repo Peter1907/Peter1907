@@ -1,12 +1,13 @@
 ## Hi there 👋, I'm Peter
-### I'm a sofware developer & a doctor.
-
-<br>
 
 ### I'm a Full-Stack Developer in progress :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
 - 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Ruby and much more
 - 💪🏼 Permanently learning new technologies
+<br>
+
+### I'm also a doctor.
+- 📚 I got my degree this year.
 
 ### currently based in Cairo, Egypt.
 
