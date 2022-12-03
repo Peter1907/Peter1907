@@ -1,13 +1,14 @@
 ## Hi there 👋, I'm Peter
 
-### I'm a Full-Stack Developer in progress :soon:
+### I'm a Frontend Developer 😎
+#### Full-Stack Developer in progress :soon:
 - 👨‍💻 Currently a student at Microvese :purple_heart:
 - 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Ruby and much more
 - 💪🏼 Permanently learning new technologies
 <br>
 
 ### I'm also a doctor.
-- 📚 I got my degree this year.
+- 📚 I got my degree in 2022.
 
 ### currently based in Cairo, Egypt.
 
