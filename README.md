@@ -1,10 +1,13 @@
 ## Hi there 👋, I'm Peter
 
-### I'm a Frontend Developer 😎
-#### Full-Stack Developer in progress :soon:
-- 👨‍💻 Currently a student at Microvese :purple_heart:
-- 📚 Learning in detail everything on HTML/CSS, Javascript, Bootstrap, Ruby and much more
-- 💪🏼 Permanently learning new technologies
+### I'm a Full-Stack Developer😎 Available for hire!
+- 🌱 I’m currently learning **Three.js** and **Nextjs**
+- 💬 Ask me about **Ruby on Rails, React.js, and anything in between**
+- 👨‍💻 All of my projects are available at [Portfolio](https://peter1907.github.io/Portfolio/)
+- 📫 How to reach me: **peter.nady.1408@gmail.com**
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/peter-nady-beshara/)
+- ⚡ Always learning new technologies.
+- 😄 Fun fact: Can't say no to a coffee chat!
 <br>
 
 ### I'm also a doctor.
@@ -14,24 +17,8 @@
 
 ## Languages and Tools 🛠 
 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>    
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    
+## Stats
 
-## Highlighted projects
-
-- [To-do list - JS](https://peter1907.github.io/to-do-list/)
-
-## Github Stats
-
-![Peter Beshara's Github Stats](https://github-readme-stats.vercel.app/api?username=Peter1907&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
-## Top languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter1907&theme=dark)
-
-##  Contact Me by email for any information!
+[![Peter Beshara's github stats](https://github-readme-stats.vercel.app/api?username=Peter1907&show_icons=true&theme=radical)](https://github.com/acushlakoncept/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter1907&show_icons=true&theme=radical&layout=compact)](https://github.com/acushlakoncept/github-readme-stats)
